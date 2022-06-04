@@ -1,0 +1,103 @@
+05 05 2022 09:38:21:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+05 05 2022 09:38:21:  Mở form Main.
+05 05 2022 09:39:19:  Đóng form Main.
+05 05 2022 09:39:19:  Đăng xuất khỏi người dùng: test1                                                                                                                                                                                                                                                          .
+05 05 2022 09:44:39:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+05 05 2022 09:44:39:  Mở form Main.
+05 05 2022 09:44:41:  Mở form Bệnh Nhân.
+05 05 2022 09:44:43:  Mở form Thuốc.
+10 05 2022 15:23:31:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+10 05 2022 15:23:31:  Mở form Main.
+10 05 2022 15:23:32:  Mở form Thuốc.
+10 05 2022 15:24:00:  Đóng form Main.
+10 05 2022 15:25:17:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+10 05 2022 15:25:17:  Mở form Main.
+10 05 2022 15:25:18:  Mở form Bệnh Nhân.
+10 05 2022 15:25:25:  Mở form Thuốc.
+10 05 2022 21:18:18:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+10 05 2022 21:18:18:  Mở form Main.
+10 05 2022 21:18:21:  Mở form Thông Tin Tài Khoản.
+10 05 2022 21:18:23:  Mở form Bệnh Nhân.
+10 05 2022 21:18:28:  Mở form Log Button.
+10 05 2022 21:18:38:  Mở form Log Button.
+10 05 2022 21:19:55:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+10 05 2022 21:19:55:  Mở form Main.
+10 05 2022 21:19:59:  Mở form Log Button.
+10 05 2022 21:20:02:  Mở form Bệnh Nhân.
+10 05 2022 21:20:14:  Mở form Log Button.
+10 05 2022 21:20:32:  Đóng form Main.
+10 05 2022 21:21:56:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+10 05 2022 21:21:56:  Mở form Main.
+10 05 2022 21:21:59:  Mở form Doanh Thu.
+10 05 2022 21:22:37:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+10 05 2022 21:22:37:  Mở form Main.
+11 05 2022 09:11:49:  Đăng nhập bằng người dùng: test2                                                                                                                                                                                                                                                          .
+11 05 2022 09:11:49:  Mở form Main.
+11 05 2022 09:11:53:  Đóng form Main.
+11 05 2022 09:11:53:  Đăng xuất khỏi người dùng: test2                                                                                                                                                                                                                                                          .
+11 05 2022 09:12:01:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+11 05 2022 09:12:01:  Mở form Main.
+11 05 2022 09:44:54:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+11 05 2022 09:44:54:  Mở form Main.
+11 05 2022 09:44:55:  Mở form Bệnh Nhân.
+11 05 2022 09:45:03:  Đóng form Main.
+11 05 2022 09:45:03:  Đăng xuất khỏi người dùng: test1                                                                                                                                                                                                                                                          .
+11 05 2022 09:45:10:  Đăng nhập bằng người dùng: test2                                                                                                                                                                                                                                                          .
+11 05 2022 09:45:10:  Mở form Main.
+11 05 2022 09:45:11:  Mở form Bệnh Nhân.
+11 05 2022 09:45:16:  Đóng form Main.
+12 05 2022 14:52:25:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+12 05 2022 14:52:25:  Mở form Main.
+12 05 2022 14:52:29:  Mở form Bệnh Nhân.
+12 05 2022 14:53:19:  Mở form Khám Bệnh.
+12 05 2022 14:53:19:  Mở form Bệnh Nhân.
+12 05 2022 14:53:25:  Đóng form Khám Bệnh.
+12 05 2022 14:53:40:  Mở form Khám Bệnh.
+12 05 2022 14:53:41:  Mở form Bệnh Nhân.
+12 05 2022 14:54:31:  Đóng form Khám Bệnh.
+12 05 2022 14:56:33:  Đóng form Main.
+14 05 2022 09:44:20:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+14 05 2022 09:44:20:  Mở form Main.
+14 05 2022 09:44:28:  Mở form Quản Lí Tài Khoản.
+14 05 2022 09:45:09:  Mở form Log Button.
+14 05 2022 09:45:23:  Đóng form Quản Lí Tài Khoản.
+14 05 2022 09:45:26:  Mở form Thuốc.
+14 05 2022 09:45:28:  Mở form Bệnh Nhân.
+14 05 2022 09:45:34:  Mở form Thông Tin Tài Khoản.
+14 05 2022 09:45:40:  Mở form Khám Bệnh.
+14 05 2022 09:45:41:  Mở form Bệnh Nhân.
+16 05 2022 14:34:31:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+16 05 2022 14:34:31:  Mở form Main.
+16 05 2022 14:34:32:  Mở form Bệnh Nhân.
+16 05 2022 14:34:36:  Mở form Khám Bệnh.
+16 05 2022 14:34:36:  Mở form Bệnh Nhân.
+16 05 2022 14:35:01:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+16 05 2022 14:35:01:  Mở form Main.
+16 05 2022 14:35:03:  Mở form Bệnh Nhân.
+16 05 2022 14:35:04:  Mở form Khám Bệnh.
+16 05 2022 14:35:05:  Mở form Bệnh Nhân.
+16 05 2022 14:36:39:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+16 05 2022 14:36:39:  Mở form Main.
+16 05 2022 14:36:41:  Mở form Bệnh Nhân.
+16 05 2022 14:36:44:  Mở form Khám Bệnh.
+16 05 2022 14:36:44:  Mở form Bệnh Nhân.
+16 05 2022 14:37:47:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+16 05 2022 14:37:47:  Mở form Main.
+16 05 2022 14:37:48:  Mở form Bệnh Nhân.
+16 05 2022 14:37:50:  Mở form Khám Bệnh.
+16 05 2022 14:37:51:  Mở form Bệnh Nhân.
+16 05 2022 14:38:50:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+16 05 2022 14:38:50:  Mở form Main.
+16 05 2022 14:38:52:  Mở form Bệnh Nhân.
+16 05 2022 14:38:54:  Mở form Khám Bệnh.
+16 05 2022 14:38:54:  Mở form Bệnh Nhân.
+16 05 2022 14:39:14:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+16 05 2022 14:39:14:  Mở form Main.
+16 05 2022 14:39:15:  Mở form Bệnh Nhân.
+16 05 2022 14:39:18:  Mở form Khám Bệnh.
+16 05 2022 14:39:18:  Mở form Bệnh Nhân.
+16 05 2022 14:40:01:  Đăng nhập bằng người dùng: test1                                                                                                                                                                                                                                                          .
+16 05 2022 14:40:01:  Mở form Main.
+16 05 2022 14:40:03:  Mở form Bệnh Nhân.
+16 05 2022 14:40:05:  Mở form Khám Bệnh.
+16 05 2022 14:40:05:  Mở form Bệnh Nhân.

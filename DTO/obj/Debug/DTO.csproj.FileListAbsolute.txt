@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\QuanLyPhongMach\DTO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\QuanLyPhongMach\DTO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\QuanLyPhongMach\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\QuanLyPhongMach\DTO\obj\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\QuanLyPhongMach\DTO\obj\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\QuanLyPhongMach\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\DTO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\DTO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\DTO\obj\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\DTO\obj\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\DoAnLTQL\QuanLyPhongMach\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
